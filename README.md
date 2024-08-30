@@ -2,15 +2,11 @@
 
 A new Flutter project.
 
-## Getting Started
+Desktop version
 
-This project is a starting point for a Flutter application.
+[magic_ball.webm](https://github.com/user-attachments/assets/29a10116-5744-4f1f-9d4d-f267a8794ba8)
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Android version
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+[magic_ball_android.webm](https://github.com/user-attachments/assets/606ebf2c-ce72-4724-930c-449578dfc17a)
